@@ -14,3 +14,5 @@ run commands
 In browser you have two end points
 1. http://localhost:8888/api/getCurrentTime 
 2. http://localhost:8888/api/addName/Lohit
+
+Prerequisite: Node.js installation
