@@ -7,6 +7,7 @@ Download it
 cd to that folder
 run commands
 > npm i
+
 > npm start
 
 In browser you have two end points
