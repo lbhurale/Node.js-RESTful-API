@@ -1,8 +1,8 @@
 {
-  "name": "test",
+  "name": "RESTful API assessment",
   "version": "1.0.0",
   "description": "Node.js RESTful API Assessment Project (Build a REST API)",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
   },
   "keywords": [],
