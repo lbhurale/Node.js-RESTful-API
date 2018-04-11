@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Node.js RESTful API Assessment Project (Build a REST API)",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Lohit Bhurale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
