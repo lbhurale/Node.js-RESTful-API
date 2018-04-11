@@ -2,9 +2,10 @@
 Node.js RESTful API Assessment Project (Build a REST API)
 
 
-This repo contains only two files
-Download it
+This repo contains only two files, download it
+
 cd to that folder
+
 run commands
 > npm i
 
